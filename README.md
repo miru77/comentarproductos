@@ -1,3 +1,6 @@
+## Aplicación Web en react con Next.js y Firebase. Donde subimos productos y los podemos buscar, votar, y comentar, 
+## con login para identificar los comentarios.
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
