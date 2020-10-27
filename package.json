@@ -5,11 +5,21 @@
   "scripts": {
     "dev": "next dev",
     "build": "next build",
-    "start": "next start"
+    "start": "next start",
+    "export": "next export"
   },
   "dependencies": {
+    "date-fns": "^2.16.1",
+    "firebase": "^7.24.0",
+    "firebase-admin": "^9.2.0",
     "next": "9.5.5",
     "react": "16.14.0",
-    "react-dom": "16.14.0"
+    "react-dom": "16.14.0",
+    "react-firebase-file-uploader": "^2.4.3",
+    "styled-components": "latest"
+  },
+  "devDependencies": {
+    "@types/styled-components": "^5.1.4",
+    "babel-plugin-styled-components": "latest"
   }
 }
